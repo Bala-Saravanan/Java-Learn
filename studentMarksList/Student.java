@@ -1,6 +1,7 @@
 package studentMarksList;
 
 import java.util.*;
+
 public class Student<e> {
 	
 	public int calculateTotal(ArrayList<Integer> marks) {
